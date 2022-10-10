@@ -4,8 +4,8 @@
 
 - 🔭  &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Graduado em Análise e desenvolvimento de Sistemas na <a href="http://www.fatecrp.edu.br/">FATEC Ribeirão Preto</a>.
-- 💼 &nbsp; Trabalhando como Programação em C# AspNet na <a href="https://bkbank.com.br/">BKBANK</a>
-- 💬 &nbsp; Aprendendo mais sobre C# 
+- 💼 &nbsp; Trabalhando como Programação em C# AspNet e .NET na <a href="https://bkbank.com.br/">BKBANK</a>
+- 💬 &nbsp; Aprendendo mais sobre C# e Clean Code
 
 ----
 [comment]: <> (Link para Imagens abaixo https://devicon.dev/)
