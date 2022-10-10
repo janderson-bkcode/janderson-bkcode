@@ -28,7 +28,7 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 [![card](https://github-readme-stats.vercel.app/api?username=janderson-bkcode&theme=radical)](https://github.com/janderson-bkcode/github-readme-stats)
-&ensp;[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=janderson-bkcode&hide=html&layout=compact&theme=radical)](https://github.com/janderson-bkcode/github-readme-stats)
+&ensp;&ensp;[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=janderson-bkcode&hide=html&layout=compact&theme=radical)](https://github.com/janderson-bkcode/github-readme-stats)
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
