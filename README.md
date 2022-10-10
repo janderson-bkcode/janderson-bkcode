@@ -1,6 +1,3 @@
-# CursoBkBankAcademyC-
-Repositório Referente ao curso de C#
-
 #
 ## 💜 Olá, meu nome é <strong> Janderson Barbosa!</strong>
 <h3> :man: &nbsp;Sobre mim </h3>
