@@ -26,11 +26,9 @@
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-
 ## ⭐ Informações sobre minha conta GitHub
 [![card](https://github-readme-stats.vercel.app/api?username=janderson-bkcode&theme=radical)](https://github.com/janderson-bkcode/github-readme-stats)
-<br>
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=janderson-bkcode&hide=html&layout=compact&theme=radical)](https://github.com/janderson-bkcode/github-readme-stats)
+&ensp;[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=janderson-bkcode&hide=html&layout=compact&theme=radical)](https://github.com/janderson-bkcode/github-readme-stats)
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
