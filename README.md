@@ -6,9 +6,9 @@ Repositório Referente ao curso de C#
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🔭  &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Formado em Análise e desenvolvimento de sistemas* na <a href="http://www.fatecrp.edu.br/">FATEC Ribeirão Preto</a>.
-- 💼 &nbsp; Trabalhando como Programação em C# AspNet* na <a href="https://bkbank.com.br/">BKBANK</a>
-- 💬 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 🎓 &nbsp; Formado em Análise e desenvolvimento de sistemas na <a href="http://www.fatecrp.edu.br/">FATEC Ribeirão Preto</a>.
+- 💼 &nbsp; Trabalhando como Programação em C# AspNet na <a href="https://bkbank.com.br/">BKBANK</a>
+- 💬 &nbsp; Aprendendo mais sobre C# 
 
 ----
 [comment]: <> (Link para Imagens abaixo https://devicon.dev/)
