@@ -34,4 +34,4 @@
 
 [![Linkedin:Janderson Barbosa](https://img.shields.io/badge/-JANDERSON-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janderson-barbosa-b1889411b)](https://www.linkedin.com/in/janderson-barbosa-b1889411b)
 [![Gmail Badge](https://img.shields.io/badge/-janderson.goncalves@bkbank.com.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:janderson.goncalves@bkbank.com.br)](mailto:janderson.goncalves@bkbank.com.br)
-[![GitHub Janderson Barbosa]( https://img.shields.io/github/followers/janderson-bkcode?label=follow&style=social)](https://github.com/janderson-bkcode)
+[![GitHub Janderson Barbosa](https://img.shields.io/github/followers/janderson-bkcode?label=follow&style=social)](https://github.com/janderson-bkcode)
